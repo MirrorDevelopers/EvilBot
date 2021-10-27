@@ -1,5 +1,5 @@
-<h1 align=center>😈EVIL BOT😈</h1>
-<img src = "https://telegra.ph/file/2345311d29a66213a9d98.jpg">
+<h1 align=center>Jessy Manager</h1>
+<img src = "t.me/MirrorDevelopers">
 
 ## You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
