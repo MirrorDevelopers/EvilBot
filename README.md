@@ -10,7 +10,7 @@
 
 Once you've setup your database and your configuration (see below) is complete, simply run:
 
-`python3 -m EvilBot`
+`python3 -m Jessy Bot`
 
 
 ### Configuration
@@ -24,9 +24,6 @@ The following env variables are supported:
 </p>
 <h3 align=center>___________</h3>
 
-## Session String
-
-* [![Run on Repl.it](https://replit.com/badge/github/TeamUltroid/Ultroid)](http://generatestringsession.sandeep1709.repl.run/)
 
 ## Variables
 
