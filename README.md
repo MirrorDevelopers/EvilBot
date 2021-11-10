@@ -1,5 +1,5 @@
-<h1 align=center>Jessy Manager</h1>
-<img src = "t.me/MirrorDevelopers">
+<h1 align=center>Garfield </h1>
+<img src = "t.me/DarkDevelopers">
 
 ## You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
